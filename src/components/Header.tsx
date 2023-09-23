@@ -1,4 +1,4 @@
-import React from "react"
+  import React from "react"
 import { FaUser ,FaSearch, FaHeart , FaCartPlus } from 'react-icons/fa';
 
 function Header() {

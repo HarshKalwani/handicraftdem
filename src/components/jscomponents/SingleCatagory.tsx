@@ -10,7 +10,8 @@ const SingleCategory = () => {
       <div >
         <Header />
       </div>
-      <div className='relative w-screen h-[25.24rem] border-2 border-dashed mt-[3rem]'>
+      <div className='relative w-screen h-[25.24rem] mt-[3rem] singleCat bg-no-repeat bg-cover bg-center flex justify-center items-center'>
+      <p className='text-[3rem] font-semibold leading-normal text-[#000] font-serif z-10 '>Woodworking Wonders, Made by Hand</p>
       </div>
       <div className='relative mt-[5rem]'>
         <ProductCategory />

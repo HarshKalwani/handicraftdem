@@ -31,10 +31,15 @@ overflow-y: scroll; /* Enable vertical scrolling */
 scroll-snap-type: y mandatory; /* Enable vertical scrolling snapping */
 /* Optional: Customize scroll behavior */
 scroll-behavior: smooth;
+overflow-x: hidden; /**/
 }
 
 .mainLeadHero {
-  background-image: url('assets/phillip-goldsberry-fZuleEfeA1Q-unsplash.jpg');
+  background-image: url('assets/bgimg.jpeg');
   /* Other background properties go here */
+}
+
+.singleCat{
+  background-image: url('assets/Rectangle1.png');
 }
 

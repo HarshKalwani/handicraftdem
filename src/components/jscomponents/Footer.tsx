@@ -14,9 +14,9 @@ const Footer = () => {
                 </div>
                 <div className='flex gap-3 justify-start text-[1.125rem] font-semibold text-start ml-[0.95rem]'>
                     <div className='mt-[1.5rem] ml-8'>
-                    <p className=''>331 A Mahavir Puram City</p>
-                    <p className=''>CHB Jodhpur Rajasthan</p>
-                    <p className='text-[#9f9f9f]'>India Pin 342008 </p>
+                    <p className=''>J-56, 1st Phrase </p>
+                    <p className=''>Sangaria Industrial Area ,</p>
+                    <p className='text-[#9f9f9f]'>JODHPUR (Raj.) State Code:08, INDIA</p>
                     </div>
                 </div>
             </div> {/*logo and*/} 
@@ -25,11 +25,11 @@ const Footer = () => {
                 <p className='w-[34rem]  text-[#9f9f9f] text-[1.3rem] font-semibold'>Mail us on this link or call us for more queries</p>
                 <div className='flex items-center gap-4 font-sans font-semibold text-[1.125rem]'>
                     <FiMail className=' flex p-1 text-[2rem] rounded-full bg-transparent bg-slate-500'/>
-                    <p>Sayamgolia@gmail.com</p>
+                    <p>arihantartsexports@gmail.com</p>
                 </div>
                 <div className='flex items-center gap-4 font-sans font-semibold text-[1.125rem] mt-1s'>
                     <TbDeviceLandlinePhone className=' flex p-1 text-[2rem] rounded-full bg-transparent bg-slate-500'/>
-                    <p> +91 1234567890</p>
+                    <p> +91 9079879306</p>
                 </div>
             </div>
         </div>

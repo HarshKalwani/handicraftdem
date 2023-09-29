@@ -29,7 +29,7 @@ function Hero() {
                         <h1 className="mt-2">Bedroom</h1></li>
                     </ul>
                 </span>
-            </div>
+            </div> 
         </>
     )
 }
